@@ -23,7 +23,7 @@
 			"path": "**/*.js"
 		},
 		{
-			"groupName": "Editor UI - Total CSS Size",
+			"groupName": "Editors UI - Total CSS Size",
 			"path": "**/*.css"
 		}
 	]
